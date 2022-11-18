@@ -14,7 +14,7 @@ FROM thesuhu/docker-node-pm2:{VERSION}
 
 ## Versions
 
-Specify the Node.js version you will use in the above *{VERSION}*. Node.js version 14 or above is available.
+Specify the Node.js version you will use in the above *{VERSION}*. Node.js version 14 and 16 is available.
 
 ## License
 
